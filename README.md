@@ -15,7 +15,7 @@ To clone this project, follow these steps:
    ```
 5. Once the cloning is complete, navigate into the project directory:
    ```
-   cd E-Commerce-Website
+   cd E-Commerce-Site-Backend
    ```
 
 ## Running the Project
